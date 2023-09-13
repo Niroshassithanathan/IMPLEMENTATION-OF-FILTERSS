@@ -197,7 +197,8 @@ i) Using Laplacian Kernal
 
 
 ii) Using Laplacian Operator
-![Uploading Screenshot from 2023-09-13 15-07-48.png…]()
+![Screenshot from 2023-09-13 15-07-48](https://github.com/Niroshassithanathan/IMPLEMENTATION-OF-FILTERSS/assets/121418437/995ec932-461c-405f-996e-6ab87114d3a8)
+
 
 
 ## Result:
